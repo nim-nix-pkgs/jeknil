@@ -11,7 +11,6 @@
   inputs.src-jeknil-master.ref   = "refs/heads/master";
   inputs.src-jeknil-master.owner = "tonogram";
   inputs.src-jeknil-master.repo  = "jeknil";
-  inputs.src-jeknil-master.dir   = "";
   inputs.src-jeknil-master.type  = "github";
   
   inputs."markdown".owner = "nim-nix-pkgs";
